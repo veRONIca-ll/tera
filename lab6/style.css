@@ -1,0 +1,36 @@
+body{
+    background: #ffb997;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+#form{
+    margin: 0 auto;
+    width: 200px;
+    padding: 20px;
+    background: #ff6677;
+    border: 1px solid #621940;
+    border-radius: 2em;
+    text-align: center;
+    font-size: 16px;
+}
+
+button{
+    width: 120px;
+    height:30px;
+    border-radius: 100px;
+    margin:40px;
+
+}
+.on{
+    color: white;
+    background-color: #ffb997;
+    text-align: center;
+
+}
+.off{
+    color:#006400;
+    background-color: white;
+    font-size: 15px;
+}
+
