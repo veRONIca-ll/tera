@@ -1,0 +1,51 @@
+/*div{*/
+/*    position: relative;*/
+/*    left: 50%;*/
+/*    transform: translate(-50%, 0);*/
+/*}*/
+
+div#clock {
+    width: 50vh;
+    height: 50vh;
+    background: lightblue;
+    margin: auto;
+    border: 1px solid #cccccc;
+    transition: ease 5s;
+    /*float: left;*/
+    /*display: inline-block;*/
+}
+
+
+div#app {
+    width: 50vh;
+    height: 50vh;
+    background: lightgoldenrodyellow;
+    margin: auto;
+    border: 1px solid #cccccc;
+    transition: ease 5s;
+    /*float: right;*/
+    /*display: inline-block;*/
+
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+button{
+    text-align: center;
+    margin: auto;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    font-weight: 700;
+    color: black;
+    text-decoration: none;
+    padding: .8em 1em calc(.8em + 3px);
+    border-radius: 3px;
+    background: lightgoldenrodyellow;
+    box-shadow: 0 -3px lightgoldenrodyellow inset;
+    transition: 0.2s;
+
+}
